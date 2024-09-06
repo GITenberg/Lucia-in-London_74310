@@ -1,0 +1,41 @@
+_repo: Lucia-in-London_74310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: https://en.wikipedia.org/wiki/E._F._Benson
+description: ''
+gutenberg_issued: '2024-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74310'
+  lccn: '28007950'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/dul1.ark:/13960/t2h75jz8b
+pgterms:marc905: 20240121152459benson
+pgterms:marc906: '1927'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bDoubleday, Doran & Company, Inc., $c1927, pubdate
+  1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Lucia (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Lucia in London
+url: http://www.gutenberg.org/ebooks/74310
